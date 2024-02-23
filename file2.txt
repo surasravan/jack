@@ -1,3 +1,0 @@
-git is a vcs tool
-to track all changes of a file
-open source
